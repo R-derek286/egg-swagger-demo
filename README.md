@@ -1,6 +1,6 @@
-# NAPI 
+# egg-swagger
 
-> NAPI 脚手架可以快速生成 NodeJS 版本的 Swagger 文档
+> 基于 NAPI 脚手架可以快速生成 NodeJS 版本的 Swagger 文档
 
 ## 项目信息
 
@@ -14,7 +14,7 @@
 初始化目录结构
 
 ```
-NAPI 项目目录
+项目目录
 ├─app                            源码目录
 │  ├─contract                    接口参数类型定义目录
 │  ├─controller                  控制器目录
